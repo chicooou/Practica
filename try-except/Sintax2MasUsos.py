@@ -12,8 +12,8 @@ except: #se crea la excepcion
     n1 = 'malo' # si no se logra convertir que sea igual a malo
     n2 = 'malo' 
 
-'''aca podriamos imprimir y evitar el inf, pero con fines de comprender que se
-se puede combinar lo hacemos de esta forma'''
+'''aca podriamos imprimir dentro de except y evitar el if, pero con 
+fines de comprender que se se puede combinar lo hacemos de esta forma'''
 
 if n1 == str(n1): # condicionamos si n1 es str se imprima
     print(n1)
