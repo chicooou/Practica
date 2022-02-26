@@ -1,10 +1,6 @@
-"""programa que ingrese un numero, divida.
-con solucion de errores para: 
+"""programa que ingrese un numero, divida. con solucion de errores para: 
 1. division entre 0
 2. errores tipicos ValueError, TypeError, IndexError
-
-entrada = n1, n2
-salida = r
 """
 import sys #nos sirve para imprimir el tipo de error
 
